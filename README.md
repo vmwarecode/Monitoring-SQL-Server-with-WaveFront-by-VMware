@@ -1,1 +1,0 @@
-# Monitoring-SQL-Server-with-WaveFront-by-VMware
